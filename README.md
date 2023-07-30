@@ -14,7 +14,7 @@ Whether you want to save data, multitask while listening to content, or avoid pe
 
 Stay tuned for more updates and features as we continue to improve your audio streaming experience!
 
-For any inquiries or feedback, feel free to reach us at [contact@ytstreamers.live](mailto:contact@ytstreamers.live).
+For any inquiries or feedback, feel free to reach us at [contact@ytstreamers.live](mailto:jawad2k01@gmail.com).
 
 Happy streaming!
 
