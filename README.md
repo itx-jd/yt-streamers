@@ -18,5 +18,5 @@ For any inquiries or feedback, feel free to reach us at [contact@ytstreamers.liv
 
 Happy streaming!
 
-## Desktop View Screenshot
-![](YTStreamers.png)
+## Desktop View
+![YT Streamers](YTStreamers.png)
