@@ -8,7 +8,7 @@ YT Streamers is a web application that aims to elevate your YouTube experience b
 
 3. **Ad Removal:** Say goodbye to annoying ads! YT Streamers removes ads from the audio playback, providing a seamless and uninterrupted listening experience.
 
-4. **Versatile Usage:** YT Streamers allows users to listen to audio-only content from any YouTube video, giving you the flexibility to consume content in a more focused manner.
+4. **Versatile Usage:** YT Streamers allows users to listen to audio-only playback of any YouTube video, giving you the flexibility to consume content in a more focused manner.
 
 Whether you want to save data, multitask while listening to content, or avoid pesky ads, YT Streamers has got you covered. Elevate your YouTube browsing experience today with YT Streamers at [ytstreamers.live](https://ytstreamers.live).
 
